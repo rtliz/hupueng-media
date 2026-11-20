@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T23:30+07:00",
+ "updatedAt": "2026-11-20T23:32+07:00",
  "postTime": "18:00",
  "episodes": [
   {
@@ -7,7 +7,7 @@
    "title": "แมมมอธหายไปได้ยังไง?",
    "cat": "ดึกดำบรรพ์",
    "date": "2026-11-20",
-   "video": "https://raw.githubusercontent.com/rtliz/hupueng-media/main/videos/002-mammoth-extinction.mp4",
+   "video": "https://github.com/rtliz/hupueng-media/releases/download/002-mammoth-extinction/002-mammoth-extinction.mp4",
    "drafted": true,
    "sources": [
     "https://www.nationalgeographic.com/science/article/woolly-mammoth-last-extinction-genetics",
@@ -20,7 +20,7 @@
    "title": "ไดโนเสาร์สูญพันธุ์เพราะอะไร?",
    "cat": "ดึกดำบรรพ์",
    "date": "2026-11-20",
-   "video": "https://raw.githubusercontent.com/rtliz/hupueng-media/main/videos/001-dino-extinction.mp4",
+   "video": "https://github.com/rtliz/hupueng-media/releases/download/001-dino-extinction/001-dino-extinction.mp4",
    "drafted": true,
    "sources": [
     "https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event",
