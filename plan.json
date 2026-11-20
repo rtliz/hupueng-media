@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T23:29+07:00",
+ "updatedAt": "2026-11-20T23:30+07:00",
  "postTime": "18:00",
  "episodes": [
   {
@@ -8,7 +8,7 @@
    "cat": "ดึกดำบรรพ์",
    "date": "2026-11-20",
    "video": "https://raw.githubusercontent.com/rtliz/hupueng-media/main/videos/002-mammoth-extinction.mp4",
-   "drafted": false,
+   "drafted": true,
    "sources": [
     "https://www.nationalgeographic.com/science/article/woolly-mammoth-last-extinction-genetics",
     "https://www.smithsonianmag.com/smart-news/last-wooly-mammoths-died-isolated-and-alone-180955208/",
