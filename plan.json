@@ -1,7 +1,20 @@
 {
- "updatedAt": "2026-11-20T23:41+07:00",
+ "updatedAt": "2026-11-21T15:27+07:00",
  "postTime": "18:00",
  "episodes": [
+  {
+   "id": "003-giant-carboniferous-insects",
+   "title": "แมลงยักษ์ปีกกว้าง 70 ซม.",
+   "cat": "ดึกดำบรรพ์",
+   "date": "2026-11-21",
+   "video": "https://github.com/rtliz/hupueng-media/releases/download/003-giant-carboniferous-insects/003-giant-carboniferous-insects.mp4",
+   "drafted": false,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Meganeura",
+    "https://www.nationalgeographic.com/science/article/giant-insects-disappeared-thanks-to-falling-oxygen-levels-and-agile-birds",
+    "https://www.mnhn.fr/en/fossil-insects"
+   ]
+  },
   {
    "id": "002-mammoth-extinction",
    "title": "แมมมอธหายไปได้ยังไง?",
@@ -30,12 +43,6 @@
   }
  ],
  "upcoming": [
-  {
-   "n": 3,
-   "cat": "ดึกดำบรรพ์",
-   "topic": "แมลงยักษ์ยุคคาร์บอนิเฟอรัส ทำไมแมลงปอเคยใหญ่เท่านกอินทรี",
-   "date": "2026-11-21"
-  },
   {
    "n": 4,
    "cat": "ดึกดำบรรพ์",
