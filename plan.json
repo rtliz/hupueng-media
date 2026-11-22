@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T15:14+07:00",
+ "updatedAt": "2026-11-22T15:15+07:00",
  "postTime": "18:00",
  "episodes": [
   {
@@ -8,7 +8,7 @@
    "cat": "ดึกดำบรรพ์",
    "date": "2026-11-22",
    "video": "https://github.com/rtliz/hupueng-media/releases/download/004-megalodon-extinction/004-megalodon-extinction.mp4",
-   "drafted": false,
+   "drafted": true,
    "sources": [
     "https://en.wikipedia.org/wiki/Megalodon",
     "https://www.nhm.ac.uk/discover/megalodon--the-truth-about-the-largest-shark-that-ever-lived.html",
