@@ -1,7 +1,20 @@
 {
- "updatedAt": "2026-11-21T15:27+07:00",
+ "updatedAt": "2026-11-22T15:14+07:00",
  "postTime": "18:00",
  "episodes": [
+  {
+   "id": "004-megalodon-extinction",
+   "title": "เมกาโลดอนหายไปไหน?",
+   "cat": "ดึกดำบรรพ์",
+   "date": "2026-11-22",
+   "video": "https://github.com/rtliz/hupueng-media/releases/download/004-megalodon-extinction/004-megalodon-extinction.mp4",
+   "drafted": false,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Megalodon",
+    "https://www.nhm.ac.uk/discover/megalodon--the-truth-about-the-largest-shark-that-ever-lived.html",
+    "https://www.smithsonianmag.com/smart-news/great-white-sharks-may-have-driven-megalodons-into-extinction-180980179/"
+   ]
+  },
   {
    "id": "003-giant-carboniferous-insects",
    "title": "แมลงยักษ์ปีกกว้าง 70 ซม.",
@@ -43,12 +56,6 @@
   }
  ],
  "upcoming": [
-  {
-   "n": 4,
-   "cat": "ดึกดำบรรพ์",
-   "topic": "เมกาโลดอน ฉลามที่ใหญ่ที่สุดในประวัติศาสตร์ หายไปไหน?",
-   "date": "2026-11-22"
-  },
   {
    "n": 5,
    "cat": "ดึกดำบรรพ์",
