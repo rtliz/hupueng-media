@@ -1,7 +1,21 @@
 {
- "updatedAt": "2026-11-22T15:15+07:00",
+ "updatedAt": "2026-11-23T15:36+07:00",
  "postTime": "18:00",
  "episodes": [
+  {
+   "id": "005-first-life-on-earth",
+   "title": "สิ่งมีชีวิตแรกมาจากไหน?",
+   "cat": "ดึกดำบรรพ์",
+   "date": "2026-11-23",
+   "video": "https://github.com/rtliz/hupueng-media/releases/download/005-first-life-on-earth/005-first-life-on-earth.mp4",
+   "drafted": false,
+   "sources": [
+    "https://www.livescience.com/oldest-stromatolites-australia",
+    "https://www.sciencenews.org/article/oldest-microfossils-suggest-life-thrived-earth-about-4-billion-years",
+    "https://www.nhm.ac.uk/discover/news/2022/november/oldest-evidence-life-earth-could-help-discover-ancient-life-mars.html",
+    "https://www.ucl.ac.uk/news/2017/mar/worlds-oldest-fossils-unearthed"
+   ]
+  },
   {
    "id": "004-megalodon-extinction",
    "title": "เมกาโลดอนหายไปไหน?",
@@ -56,12 +70,6 @@
   }
  ],
  "upcoming": [
-  {
-   "n": 5,
-   "cat": "ดึกดำบรรพ์",
-   "topic": "สิ่งมีชีวิตแรกบนโลกมาจากไหน?",
-   "date": "2026-11-23"
-  },
   {
    "n": 6,
    "cat": "ดึกดำบรรพ์",
