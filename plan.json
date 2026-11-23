@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T15:36+07:00",
+ "updatedAt": "2026-11-23T15:37+07:00",
  "postTime": "18:00",
  "episodes": [
   {
@@ -8,7 +8,7 @@
    "cat": "ดึกดำบรรพ์",
    "date": "2026-11-23",
    "video": "https://github.com/rtliz/hupueng-media/releases/download/005-first-life-on-earth/005-first-life-on-earth.mp4",
-   "drafted": false,
+   "drafted": true,
    "sources": [
     "https://www.livescience.com/oldest-stromatolites-australia",
     "https://www.sciencenews.org/article/oldest-microfossils-suggest-life-thrived-earth-about-4-billion-years",
