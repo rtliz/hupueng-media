@@ -1,7 +1,21 @@
 {
- "updatedAt": "2026-11-23T15:37+07:00",
+ "updatedAt": "2026-11-24T15:35+07:00",
  "postTime": "18:00",
  "episodes": [
+  {
+   "id": "006-ice-age-cause",
+   "title": "ยุคน้ำแข็งเกิดขึ้นได้ยังไง?",
+   "cat": "ดึกดำบรรพ์",
+   "date": "2026-11-24",
+   "video": "https://github.com/rtliz/hupueng-media/releases/download/006-ice-age-cause/006-ice-age-cause.mp4",
+   "drafted": false,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Milankovitch_cycles",
+    "https://science.nasa.gov/earth/climate-change/milankovitch-orbital-cycles-and-their-role-in-earths-climate/",
+    "https://en.wikipedia.org/wiki/Last_Glacial_Maximum",
+    "https://news.arizona.edu/news/how-cold-was-ice-age-researchers-now-know"
+   ]
+  },
   {
    "id": "005-first-life-on-earth",
    "title": "สิ่งมีชีวิตแรกมาจากไหน?",
@@ -70,12 +84,6 @@
   }
  ],
  "upcoming": [
-  {
-   "n": 6,
-   "cat": "ดึกดำบรรพ์",
-   "topic": "ยุคน้ำแข็งเกิดขึ้นได้ยังไง?",
-   "date": "2026-11-24"
-  },
   {
    "n": 7,
    "cat": "ดึกดำบรรพ์",
