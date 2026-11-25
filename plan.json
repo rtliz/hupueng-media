@@ -1,7 +1,21 @@
 {
- "updatedAt": "2026-11-24T15:36+07:00",
+ "updatedAt": "2026-11-25T15:15+07:00",
  "postTime": "18:00",
  "episodes": [
+  {
+   "id": "007-birds-are-dinosaurs",
+   "title": "ทำไมนกคือไดโนเสาร์?",
+   "cat": "ดึกดำบรรพ์",
+   "date": "2026-11-25",
+   "video": "https://github.com/rtliz/hupueng-media/releases/download/007-birds-are-dinosaurs/007-birds-are-dinosaurs.mp4",
+   "drafted": false,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Origin_of_birds",
+    "https://www.nhm.ac.uk/discover/how-dinosaurs-evolved-into-birds",
+    "https://www.scientificamerican.com/article/how-birds-evolved-from-dinosaurs/",
+    "https://www.nationalgeographic.com/magazine/2018/05/dinosaurs-survivors-birds-fossils"
+   ]
+  },
   {
    "id": "006-ice-age-cause",
    "title": "ยุคน้ำแข็งเกิดขึ้นได้ยังไง?",
@@ -84,12 +98,6 @@
   }
  ],
  "upcoming": [
-  {
-   "n": 7,
-   "cat": "ดึกดำบรรพ์",
-   "topic": "ทำไมนกถึงเป็นลูกหลานไดโนเสาร์",
-   "date": "2026-11-25"
-  },
   {
    "n": 8,
    "cat": "ดึกดำบรรพ์",
