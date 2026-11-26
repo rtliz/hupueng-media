@@ -1,7 +1,21 @@
 {
- "updatedAt": "2026-11-25T15:16+07:00",
+ "updatedAt": "2026-11-26T15:16+07:00",
  "postTime": "18:00",
  "episodes": [
+  {
+   "id": "008-great-dying",
+   "title": "มหาวิบัติ 252 ล้านปีก่อน?",
+   "cat": "ดึกดำบรรพ์",
+   "date": "2026-11-26",
+   "video": "https://github.com/rtliz/hupueng-media/releases/download/008-great-dying/008-great-dying.mp4",
+   "drafted": true,
+   "sources": [
+    "https://www.discovermagazine.com/the-late-permian-mass-extinction-explained-43881",
+    "https://science.nasa.gov/blogs/earth-matters/2012/05/30/mollusks-corals-carbon-and-volcanoes",
+    "https://dx.doi.org/10.1038/s43017-021-00259-4",
+    "https://news.stanford.edu/stories/2026/07/researchers-confirm-cause-earths-biggest-mass-extinction"
+   ]
+  },
   {
    "id": "007-birds-are-dinosaurs",
    "title": "ทำไมนกคือไดโนเสาร์?",
@@ -98,12 +112,6 @@
   }
  ],
  "upcoming": [
-  {
-   "n": 8,
-   "cat": "ดึกดำบรรพ์",
-   "topic": "การสูญพันธุ์ครั้งใหญ่ที่สุด The Great Dying เมื่อ 252 ล้านปีก่อน",
-   "date": "2026-11-26"
-  },
   {
    "n": 9,
    "cat": "ดึกดำบรรพ์",
