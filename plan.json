@@ -1,7 +1,21 @@
 {
- "updatedAt": "2026-11-26T15:16+07:00",
+ "updatedAt": "2026-11-27T15:16+07:00",
  "postTime": "18:00",
  "episodes": [
+  {
+   "id": "009-first-land-animal",
+   "title": "ใครขึ้นบกเป็นตัวแรก?",
+   "cat": "ดึกดำบรรพ์",
+   "date": "2026-11-27",
+   "video": "https://github.com/rtliz/hupueng-media/releases/download/009-first-land-animal/009-first-land-animal.mp4",
+   "drafted": false,
+   "sources": [
+    "https://www.nature.com/articles/nature04639",
+    "https://www.nature.com/articles/nature08623",
+    "https://www.nature.com/articles/347066a0",
+    "https://www.scientificamerican.com/article/getting-a-leg-up-on-land/"
+   ]
+  },
   {
    "id": "008-great-dying",
    "title": "มหาวิบัติ 252 ล้านปีก่อน?",
@@ -112,12 +126,6 @@
   }
  ],
  "upcoming": [
-  {
-   "n": 9,
-   "cat": "ดึกดำบรรพ์",
-   "topic": "สัตว์ตัวแรกที่ขึ้นจากทะเลมาบนบก",
-   "date": "2026-11-27"
-  },
   {
    "n": 10,
    "cat": "ดึกดำบรรพ์",
