@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T15:15+07:00",
+ "updatedAt": "2026-11-28T15:16+07:00",
  "postTime": "18:00",
  "episodes": [
   {
@@ -8,7 +8,7 @@
    "cat": "ดึกดำบรรพ์",
    "date": "2026-11-28",
    "video": "https://github.com/rtliz/hupueng-media/releases/download/010-phuwiangosaurus/010-phuwiangosaurus.mp4",
-   "drafted": false,
+   "drafted": true,
    "sources": [
     "https://en.wikipedia.org/wiki/Phuwiangosaurus",
     "https://en.wikipedia.org/wiki/Paleontology_in_Thailand",
