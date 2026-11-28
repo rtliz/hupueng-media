@@ -1,7 +1,20 @@
 {
- "updatedAt": "2026-11-27T15:16+07:00",
+ "updatedAt": "2026-11-28T15:15+07:00",
  "postTime": "18:00",
  "episodes": [
+  {
+   "id": "010-phuwiangosaurus",
+   "title": "ไดโนเสาร์ยักษ์แห่งภูเวียง",
+   "cat": "ดึกดำบรรพ์",
+   "date": "2026-11-28",
+   "video": "https://github.com/rtliz/hupueng-media/releases/download/010-phuwiangosaurus/010-phuwiangosaurus.mp4",
+   "drafted": false,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Phuwiangosaurus",
+    "https://en.wikipedia.org/wiki/Paleontology_in_Thailand",
+    "https://www.prehistoric-wildlife.com/species/phuwiangosaurus/"
+   ]
+  },
   {
    "id": "009-first-land-animal",
    "title": "ใครขึ้นบกเป็นตัวแรก?",
@@ -126,12 +139,6 @@
   }
  ],
  "upcoming": [
-  {
-   "n": 10,
-   "cat": "ดึกดำบรรพ์",
-   "topic": "ไดโนเสาร์ในประเทศไทย ภูเวียงโกซอรัส",
-   "date": "2026-11-28"
-  },
   {
    "n": 11,
    "cat": "ดึกดำบรรพ์",
