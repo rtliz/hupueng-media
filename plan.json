@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T19:14+07:00",
+ "updatedAt": "2026-11-28T19:15+07:00",
  "postTime": "18:00",
  "episodes": [
   {
@@ -102,9 +102,9 @@
    "id": "003-giant-carboniferous-insects",
    "title": "แมลงยักษ์ปีกกว้าง 70 ซม.",
    "cat": "ดึกดำบรรพ์",
-   "date": "2026-11-21",
+   "date": "2026-11-28",
    "video": "https://github.com/rtliz/hupueng-media/releases/download/003-giant-carboniferous-insects/003-giant-carboniferous-insects.mp4",
-   "drafted": false,
+   "drafted": true,
    "sources": [
     "https://en.wikipedia.org/wiki/Meganeura",
     "https://www.nationalgeographic.com/science/article/giant-insects-disappeared-thanks-to-falling-oxygen-levels-and-agile-birds",
